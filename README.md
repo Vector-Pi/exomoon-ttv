@@ -4,7 +4,7 @@ A Python pipeline for placing population-level upper limits on exomoon masses us
 
 Rather than searching for a moon around a single planet, this pipeline processes a sample of known TESS planets, extracts per-transit central times for each, and produces a **population-level sensitivity map**: for what moon masses and orbital separations can we say moons are absent, across the observed sample?
 
-Built and maintained by [Om Arora](https://vector-pi.github.io/omarora/).
+
 
 ---
 
@@ -122,7 +122,3 @@ All tests run offline. Covers unit conversions, O-C arithmetic, sensitivity mono
 ## License
 
 MIT. See `LICENSE`.
-
-## Author
-
-**Om Arora** · [omarora.netlify.app](https://omarora.netlify.app) · [Vector-Pi](https://github.com/Vector-Pi)

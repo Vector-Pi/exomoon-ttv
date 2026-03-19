@@ -82,7 +82,7 @@ pop.summary_table()         # LaTeX table of per-system limits
 | 279741379 | HD 213885 b | 1.008 | 0.066 | 7.9 |
 | 394050135 | TOI-700 d | 37.42 | 0.006 | 10.5 |
 
-Note: This dataset may contain some inconsistencies or errors. Please verify all the TICs before using it in any calculations or running it with the software.
+Note: This dataset may contain some inconsistencies or errors. Please verify before using it in any calculations or running it with the software.
 
 ---
 
